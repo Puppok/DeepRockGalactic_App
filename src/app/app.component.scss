@@ -1,0 +1,7 @@
+.page-wrapper, .front-page-img, .main {
+  height: var(--height-100);
+  width: var(--width-100);
+}
+ .front-page-img, .main {
+   position: absolute;
+ }
